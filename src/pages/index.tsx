@@ -7,7 +7,7 @@ export default function Home() {
       {/* 1단락 */}
       <div className="relative w-full pb-[calc(21/375*100%)]">
         <Image
-          className="dark:invert w-full"
+          className="w-full"
           src="/images/1.png"
           alt="1단락 이미지"
           width={375}
@@ -32,7 +32,7 @@ export default function Home() {
       {/* 2단락 */}
       <div className="mr-[calc(24/375*100%)]">
         <Image
-          className="dark:invert w-full block"
+          className="w-full block"
           src="/images/2.png"
           alt="2단락 이미지"
           width={351}
@@ -50,7 +50,7 @@ export default function Home() {
           </p>
         </div>
         <Image
-          className="dark:invert w-full mt-[calc(-59/375*100%)]"
+          className="w-full mt-[calc(-59/375*100%)]"
           src="/images/3.png"
           alt="2단락 이미지"
           width={351}
