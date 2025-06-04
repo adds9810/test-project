@@ -42,7 +42,7 @@ export default function Home() {
       </div>
 
       {/* 3단락 */}
-      <div className="flex flex-col w-full items-center justify-between mt-[calc(-84/375*100%)] ">
+      <div className="flex flex-col w-full items-center justify-between mt-[calc(-84/375*100%)] pb-[calc(80/375*100%)]">
         <div className="relative inline-block self-baseline w-[calc(281/375*100%)] pt-[calc(181/375*100%)] bg-[url('/images/3-1.png')] bg-cover bg-center bg-no-repeat">
           <p className="absolute top-1/2 -translate-y-1/2 left-0 w-full mt-[calc(-10/257*100%)] justify-center items-center flex flex-col text-[16px] leading-normal ">
             <span className="block">제가 oo님의 사주를 </span>
