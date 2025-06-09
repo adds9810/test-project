@@ -7,12 +7,15 @@ export default function Document() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="description"
-          content="AI 사주풀이 웹서비스 포트폴리오입니다. 십성, 천간, 지지 정보를 시각적으로 제공합니다."
+          content="세계 1위 인공지능 사주팔자 운세박사에서 AI 사주, 해몽, 운세, 작명, 궁합을 봐보세요! 인공지능으로 정확한 운세를 점쳐보세요. 오늘의 운세, 연애운, 애정운, 금전운, 연애상담, 고민상담을 받아보세요."
         />
-        <meta property="og:title" content="AI 사주풀이 웹서비스" />
+        <meta
+          property="og:title"
+          content="운세박사 - AI 사주, 인공지능 운세, 궁합, 작명, 해몽"
+        />
         <meta
           property="og:description"
-          content="직관적인 명리 구성표와 사용자 친화적인 인터페이스로 사주 정보를 전달하는 프로젝트입니다."
+          content="세계 1위 인공지능 사주팔자 운세박사에서 AI 사주, 해몽, 운세, 작명, 궁합을 봐보세요! 인공지능으로 정확한 운세를 점쳐보세요. 오늘의 운세, 연애운, 애정운, 금전운, 연애상담, 고민상담을 받아보세요."
         />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="ko_KR" />
